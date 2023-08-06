@@ -1,0 +1,4 @@
+repository "mishidao@ssl://wechat_os_qy03ud7s599a2zafdxcq-srd0@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"

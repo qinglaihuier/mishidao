@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 634ab648853f9a340ab551c4eba9fa6e, type: 3}
+  m_Name: week1Data
+  m_EditorClassIdentifier: 
+  gameName: H2A
+  balls_List:
+  - name: 0
+    rightSprite: {fileID: 0}
+    wrongSprite: {fileID: 0}
+  - name: 1
+    rightSprite: {fileID: 21300000, guid: a6b4d1b373cf8c14e98f59f7ae20d595, type: 3}
+    wrongSprite: {fileID: 21300000, guid: 3fcf827fb270da84290dc03d5c949351, type: 3}
+  - name: 2
+    rightSprite: {fileID: 21300000, guid: 7b6fea7eb795b3343a901ca46232f5d3, type: 3}
+    wrongSprite: {fileID: 21300000, guid: 3b0b1773bc329754083d75a459b8a178, type: 3}
+  - name: 3
+    rightSprite: {fileID: 21300000, guid: 7d03da2467202e94d9f3521015cea372, type: 3}
+    wrongSprite: {fileID: 21300000, guid: 0fe02cb6540edfd4b9ad0063b79b2b81, type: 3}
+  - name: 4
+    rightSprite: {fileID: 21300000, guid: e65de5dbb1adf0247a41ef50c5b2bdd2, type: 3}
+    wrongSprite: {fileID: 21300000, guid: 8bf1860badee70e49acd88615c2ac413, type: 3}
+  - name: 5
+    rightSprite: {fileID: 21300000, guid: b17901fec8e97d846ac82b671ea28e0c, type: 3}
+    wrongSprite: {fileID: 21300000, guid: f156c72b5a1095a4cac97c9a1250a336, type: 3}
+  - name: 6
+    rightSprite: {fileID: 21300000, guid: aa09c14d910cb294f823cb2a63a1a950, type: 3}
+    wrongSprite: {fileID: 21300000, guid: fdb461153592c044d903782210d41894, type: 3}
+  linePosition_List:
+  - beginPosition: 0
+    endPosition: 1
+  - beginPosition: 0
+    endPosition: 2
+  - beginPosition: 0
+    endPosition: 3
+  - beginPosition: 0
+    endPosition: 4
+  - beginPosition: 0
+    endPosition: 5
+  - beginPosition: 0
+    endPosition: 6
+  - beginPosition: 1
+    endPosition: 6
+  - beginPosition: 1
+    endPosition: 2
+  - beginPosition: 1
+    endPosition: 3
+  - beginPosition: 3
+    endPosition: 4
+  - beginPosition: 4
+    endPosition: 6
+  - beginPosition: 5
+    endPosition: 6
+  ballPosition_List: 00000000060000000500000004000000030000000200000001000000
